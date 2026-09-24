@@ -1,0 +1,57 @@
+{
+  "targets": [
+    {
+      "name": "PPP5",
+      "run_tag": "PPP5",
+      "seq_len": 499,
+      "seq_file": "benchmarks/targets/PPP5.seq"
+    },
+    {
+      "name": "CLK1",
+      "run_tag": "CLK1",
+      "seq_len": 484,
+      "seq_file": "benchmarks/targets/CLK1.seq"
+    },
+    {
+      "name": "UCHL5",
+      "run_tag": "UCHL5",
+      "seq_len": 329,
+      "seq_file": "benchmarks/targets/UCHL5.seq"
+    },
+    {
+      "name": "AMHR2",
+      "run_tag": "AMHR2",
+      "seq_len": 111,
+      "seq_file": "benchmarks/targets/AMHR2.seq"
+    },
+    {
+      "name": "DUSP12",
+      "run_tag": "DUSP12",
+      "seq_len": 340,
+      "seq_file": "benchmarks/targets/DUSP12.seq"
+    },
+    {
+      "name": "TM3",
+      "run_tag": "TM3",
+      "seq_len": 425,
+      "seq_file": "benchmarks/targets/TM3.seq"
+    },
+    {
+      "name": "EWS::FLI1",
+      "run_tag": "EWS_FLI1",
+      "seq_len": 498,
+      "seq_file": "benchmarks/targets/EWS_FLI1.seq"
+    },
+    {
+      "name": "MYC",
+      "run_tag": "MYC",
+      "seq_len": 454,
+      "seq_file": "benchmarks/targets/MYC.seq"
+    }
+  ],
+  "missing_sequences": [
+    "TM5",
+    "TM7"
+  ],
+  "seed": 42
+}

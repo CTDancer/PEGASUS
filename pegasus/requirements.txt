@@ -1,0 +1,11 @@
+torch
+numpy
+scipy
+scikit-learn
+tqdm
+# PeptiVerse and its own dependencies are external runtime dependencies.
+# Training extras
+lightning
+pytorch-lightning
+datasets
+pyyaml
