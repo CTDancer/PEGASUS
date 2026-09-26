@@ -1,3 +1,4 @@
 # PEGASUS: Query-Efficient Multi-Objective Biomolecular Design with Discrete Flow Maps
 
-<img width="3084" height="924" alt="image" src="https://github.com/user-attachments/assets/6d62219b-6d30-486e-9882-109913818826" />
+<img width="3088" height="952" alt="image" src="https://github.com/user-attachments/assets/edb17ea7-b7f1-479d-b8a1-b801c5ff56dc" />
+
